@@ -21,7 +21,7 @@ Currently, as the **Chief Financial Officer at Intezia**, I architected the comp
 * **Financial Intelligence:** Engineered automated reporting systems that enhanced financial accuracy and supported strategic planning.
 * **Economic Consulting (EY):** Executed comparability studies and financial health analyses for international corporate clients, ensuring rigorous technical documentation and compliance.
 * **Strategic Leadership (WOFI):** Led a team of mentors to measure social impact using data-driven frameworks (OKRs and KPIs), optimizing program efficiency.
-* **Academic Excellence:** Four-time Dean's List member and recipient of the Academic Excellence Scholarship at UNIMET.
+* **Academic Excellence (UNIMET):** Four-time Dean's List member and recipient of the Academic Excellence Scholarship.
 
 ---
 
