@@ -27,8 +27,8 @@ Currently, as the **Chief Financial Officer at Intezia**, I architected the comp
 
 ### 🎓 Education & Certifications
 
-* **B.S. in Business Economics** – Universidad Metropolitana (Summa Cum Laude).
-* **Specializations:** - Minor in Economic Data Management.
+* **B.S. in Business Economics** Universidad Metropolitana (Summa Cum Laude).
+* **Specializations:** Minor in Economic Data Management.
 * **Certifications:** AI Applied to Processes, Excel and Power BI integration, Negotation and Conflict Resolution, Assertive Communication and Emotional Intelligence.
 
 ---
@@ -41,4 +41,4 @@ Currently, as the **Chief Financial Officer at Intezia**, I architected the comp
 * **LinkedIn:** [www.linkedin.com/in/andrés-jiménez-0ab3162ab]
 
 ---
-*"Disciplined, resilient, and obsessed with turning complex datasets into growth-driving insights."* 
+*"Disciplined, resilient, and passionated about transforming complex datasets into growth-driving insights."* 
