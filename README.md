@@ -41,4 +41,4 @@ Currently, as the **Chief Financial Officer at Intezia**, I architected the comp
 * **LinkedIn:** [www.linkedin.com/in/andrés-jiménez-0ab3162ab]
 
 ---
-*"Disciplined, resilient, and passionated about transforming complex datasets into growth-driving insights."* 
+*"Disciplined, resilient, and passionate about transforming complex datasets into growth-driving insights."* 
