@@ -38,7 +38,7 @@ Currently, as the **Chief Financial Officer at Intezia**, I architected the comp
 * **Location:** Caracas, Venezuela 
 * **Languages:** Spanish (Native) | **English (C2 Proficient)** 
 * **Email:** [andreshjp01@gmail.com](mailto:andreshjp01@gmail.com) 
-* **LinkedIn:** [www.linkedin.com/in/andrés-jiménez-0ab3162ab]
+* **LinkedIn:** [Andrés Jiménez](www.linkedin.com/in/andrés-jiménez-0ab3162ab)
 
 ---
 *"Disciplined, resilient, and passionate about transforming complex datasets into growth-driving insights."* 
