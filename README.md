@@ -1,44 +1,51 @@
-# Hi, I'm Andrés Jiménez!👋
-### Business Economist & Data Analyst | CFO at Intezia
+# Andrés Jiménez
 
-I am a **Business Economist graduated Summa Cum Laude** with a **Minor in Economic Data Management**. My expertise lies at the intersection of economic theory and Data Science, specializing in bridging the gap between raw data and strategic decision-making through intelligence, analytics, and automation.
-
-Currently, as the **Chief Financial Officer at Intezia**, I architected the company’s end-to-end financial data pipeline. I built a custom transaction database from scratch that automates financial statements and tracks key performance metrics in real-time via **Looker**.
+**Business & Data Analyst · FP&A & Process Optimization**  
+Caracas, Venezuela 
 
 ---
 
-### 🛠 Tech Stack & Tools
+I'm a Business Economist (Summa Cum Laude, UNIMET) with hands-on experience 
+building end-to-end financial data systems and translating complex operational 
+data into process improvements and strategic decisions. Currently CFO at Intezia, 
+a Venezuelan AI education company operating across Venezuela and the US, 
+where I've built 14 BI dashboards from scratch, automated financial reporting 
+workflows, and led cross-functional process redesigns with measurable impact.
 
-* **Programming:** Python and R for advanced statistical modeling and data manipulation.
-* **Business Intelligence:** Looker, Power BI, Orange, and Knime.
-* **Economic Analysis:** Financial modeling, macroeconomic research, and international tax compliance.
-* **Productivity:** Advanced-level Microsoft and Google Workspace ecosystem.
-
----
-
-### 📈 Professional Impact & Highlights
-
-* **Financial Intelligence:** Engineered automated reporting systems that enhanced financial accuracy and supported strategic planning.
-* **Economic Consulting (EY):** Executed comparability studies and financial health analyses for international corporate clients, ensuring rigorous technical documentation and compliance.
-* **Strategic Leadership (WOFI):** Led a team of mentors to measure social impact using data-driven frameworks (OKRs and KPIs), optimizing program efficiency.
-* **Academic Excellence (UNIMET):** Four-time Dean's List member and recipient of the Academic Excellence Scholarship.
+My work sits at the intersection of financial analysis, business intelligence, 
+and applied statistics — combining a strong FP&A background with predictive 
+modeling in R and Python and a growing SQL foundation.
 
 ---
 
-### 🎓 Education & Certifications
+## What you'll find here
 
-* **B.S. in Business Economics** Universidad Metropolitana (Summa Cum Laude).
-* **Specializations:** Minor in Economic Data Management.
-* **Certifications:** AI Applied to Processes, Excel and Power BI integration, Negotation and Conflict Resolution, Assertive Communication and Emotional Intelligence.
+- **Financial systems** — A production-grade SQLite database replicating 
+  Intezia's full financial operation (transactions, AR, AP, payroll, 
+  subscriptions), built as a Harvard CS50 SQL final project
+- **Predictive modeling** — Classification projects covering fraud detection, 
+  customer churn, and income prediction, using Random Forest, SVM, Elastic Net, 
+  and ensemble methods in R
+- **Exploratory data analysis** — Market analysis and equity intelligence 
+  projects in R and Python, with end-to-end data wrangling and visual storytelling
+- **Econometrics** — Undergraduate thesis examining how the functional 
+  composition of public spending drives economic growth across Latin America, 
+  using panel data (Fixed Effects, HAC standard errors) with multi-source data 
+  from CEPAL, IMF, and Eurostat
 
 ---
 
-### 📫 Let's Connect!
+## Stack
 
-* **Location:** Caracas, Venezuela 
-* **Languages:** Spanish (Native) | **English (C2 Proficient)** 
-* **Email:** [andreshjp01@gmail.com](mailto:andreshjp01@gmail.com) 
-* **LinkedIn:** [Andrés Jiménez](www.linkedin.com/in/andrés-jiménez-0ab3162ab)
+**BI & Visualization** · Looker Studio · Power BI · Excel (Advanced)  
+**Programming** · R (tidyverse, ggplot2, caret, plm) · Python (pandas, 
+seaborn, matplotlib) · SQL / SQLite  
+**Finance** · FP&A · Cash flow modeling · Valuation (IVSC) · 
+Transfer pricing  
 
 ---
-*"Disciplined, resilient, and passionate about transforming complex datasets into growth-driving insights."* 
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/andrés-jiménez-0ab3162ab) · 
+[andreshjp01@gmail.com](mailto:andreshjp01@gmail.com)
